@@ -1,0 +1,6 @@
+{
+    "name": "MySimpleToken",
+    "symbol": "MST",
+    "decimals": 18,
+    "logo": "https://example.com/path/to/your/logo.png",
+}
