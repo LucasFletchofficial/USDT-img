@@ -1,6 +1,6 @@
 {
-    "name": "MySimpleToken",
-    "symbol": "MST",
+    "name": "USDT",
+    "symbol": "USDT-ETH",
     "decimals": 18,
     "logo": "https://example.com/path/to/your/logo.png",
 }
